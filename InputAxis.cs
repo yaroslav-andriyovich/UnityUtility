@@ -1,4 +1,4 @@
-﻿public class Axis
+public abstract class InputAxis
 {
     public static string Horizontal => "Horizontal";
 
